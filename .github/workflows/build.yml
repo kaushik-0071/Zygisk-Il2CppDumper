@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "xsquads.scarfall.battleroyalegame"
+          description: "com.garena.game.ffi"
           required: true
 
 jobs:
